@@ -1,0 +1,26 @@
+
+/*
+  Localizable.strings
+  kushitask
+
+  Created by Kentaro on 2017/06/24.
+  Copyright © 2017年 Kentao Taguchi. All rights reserved.
+*/
+
+// MARK: - 共通
+"DELETE_ALL" = "すべて削除";
+
+// MARK: - フォルダ一覧
+"FOLDER_ADD" = "新規フォルダ";
+
+// MARK: - タスク一覧
+"TASK_ADD" = "タスク追加";
+
+// MARK: - アラート
+"ALERT_CANCEL" = "キャンセル";
+"ALERT_SAVE" = "保存";
+"ALERT_DELETE" = "削除";
+"ALERT_ADD_MSG_FOLDER" = "このフォルダの名前を入力してください。";
+"ALERT_ADD_MSG_TASK" = "このタスクの名前を入力してください。";
+"ALERT_UPDATE_MESSAGE_FOLDER" = "このフォルダの新しい名前を入力してください。";
+"ALERT_UPDATE_MESSAGE_TASK" = "このタスクの新しい名前を入力してください。";
